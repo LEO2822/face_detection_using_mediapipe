@@ -1,0 +1,672 @@
+{
+    "frame_0": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 600,
+                "ymin": 202,
+                "width": 231,
+                "height": 231
+            }
+        }
+    },
+    "frame_1": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 598,
+                "ymin": 216,
+                "width": 236,
+                "height": 236
+            }
+        }
+    },
+    "frame_2": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 591,
+                "ymin": 229,
+                "width": 248,
+                "height": 248
+            }
+        }
+    },
+    "frame_3": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 587,
+                "ymin": 249,
+                "width": 236,
+                "height": 236
+            }
+        }
+    },
+    "frame_4": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 587,
+                "ymin": 264,
+                "width": 228,
+                "height": 228
+            }
+        }
+    },
+    "frame_5": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 590,
+                "ymin": 266,
+                "width": 227,
+                "height": 227
+            }
+        }
+    },
+    "frame_6": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 590,
+                "ymin": 267,
+                "width": 220,
+                "height": 220
+            }
+        }
+    },
+    "frame_7": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 588,
+                "ymin": 259,
+                "width": 230,
+                "height": 230
+            }
+        }
+    },
+    "frame_8": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 560,
+                "ymin": 243,
+                "width": 253,
+                "height": 253
+            }
+        }
+    },
+    "frame_9": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 552,
+                "ymin": 230,
+                "width": 247,
+                "height": 247
+            }
+        }
+    },
+    "frame_10": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 543,
+                "ymin": 218,
+                "width": 244,
+                "height": 244
+            }
+        }
+    },
+    "frame_11": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 524,
+                "ymin": 192,
+                "width": 258,
+                "height": 258
+            }
+        }
+    },
+    "frame_12": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 496,
+                "ymin": 158,
+                "width": 275,
+                "height": 275
+            }
+        }
+    },
+    "frame_13": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 485,
+                "ymin": 142,
+                "width": 268,
+                "height": 268
+            }
+        }
+    },
+    "frame_14": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 495,
+                "ymin": 144,
+                "width": 246,
+                "height": 246
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 837,
+                "ymin": 178,
+                "width": 405,
+                "height": 405
+            }
+        }
+    },
+    "frame_15": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 495,
+                "ymin": 144,
+                "width": 246,
+                "height": 246
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 837,
+                "ymin": 178,
+                "width": 405,
+                "height": 405
+            }
+        }
+    },
+    "frame_16": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 485,
+                "ymin": 134,
+                "width": 256,
+                "height": 256
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 867,
+                "ymin": 194,
+                "width": 368,
+                "height": 368
+            }
+        }
+    },
+    "frame_17": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 485,
+                "ymin": 134,
+                "width": 256,
+                "height": 256
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 867,
+                "ymin": 194,
+                "width": 368,
+                "height": 368
+            }
+        }
+    },
+    "frame_18": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 485,
+                "ymin": 157,
+                "width": 247,
+                "height": 247
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 845,
+                "ymin": 124,
+                "width": 442,
+                "height": 442
+            }
+        }
+    },
+    "frame_19": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 485,
+                "ymin": 157,
+                "width": 247,
+                "height": 247
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 845,
+                "ymin": 124,
+                "width": 442,
+                "height": 442
+            }
+        }
+    },
+    "frame_20": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 450,
+                "ymin": 151,
+                "width": 252,
+                "height": 252
+            }
+        }
+    },
+    "frame_21": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 456,
+                "ymin": 176,
+                "width": 247,
+                "height": 247
+            }
+        }
+    },
+    "frame_22": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 491,
+                "ymin": 207,
+                "width": 234,
+                "height": 234
+            }
+        }
+    },
+    "frame_23": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 486,
+                "ymin": 211,
+                "width": 223,
+                "height": 223
+            }
+        }
+    },
+    "frame_24": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 510,
+                "ymin": 234,
+                "width": 212,
+                "height": 212
+            }
+        }
+    },
+    "frame_25": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 462,
+                "ymin": 231,
+                "width": 249,
+                "height": 249
+            }
+        }
+    },
+    "frame_26": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 464,
+                "ymin": 221,
+                "width": 238,
+                "height": 238
+            }
+        }
+    },
+    "frame_27": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 493,
+                "ymin": 224,
+                "width": 234,
+                "height": 234
+            }
+        }
+    },
+    "frame_28": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 537,
+                "ymin": 249,
+                "width": 191,
+                "height": 191
+            }
+        }
+    },
+    "frame_29": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 513,
+                "ymin": 229,
+                "width": 217,
+                "height": 217
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 94,
+                "ymin": 99,
+                "width": 308,
+                "height": 308
+            }
+        }
+    },
+    "frame_30": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 513,
+                "ymin": 229,
+                "width": 217,
+                "height": 217
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 94,
+                "ymin": 99,
+                "width": 308,
+                "height": 308
+            }
+        }
+    },
+    "frame_31": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 515,
+                "ymin": 231,
+                "width": 218,
+                "height": 218
+            }
+        }
+    },
+    "frame_32": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 623,
+                "ymin": -34,
+                "width": 547,
+                "height": 547
+            }
+        }
+    },
+    "frame_33": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 537,
+                "ymin": 203,
+                "width": 206,
+                "height": 206
+            }
+        }
+    },
+    "frame_34": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 511,
+                "ymin": 228,
+                "width": 206,
+                "height": 206
+            }
+        }
+    },
+    "frame_35": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 526,
+                "ymin": 169,
+                "width": 206,
+                "height": 206
+            }
+        }
+    },
+    "frame_36": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 533,
+                "ymin": 158,
+                "width": 205,
+                "height": 205
+            }
+        }
+    },
+    "frame_37": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 703,
+                "ymin": 9,
+                "width": 317,
+                "height": 317
+            }
+        }
+    },
+    "frame_38": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 674,
+                "ymin": -60,
+                "width": 513,
+                "height": 513
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 585,
+                "ymin": 145,
+                "width": 217,
+                "height": 217
+            }
+        }
+    },
+    "frame_39": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 674,
+                "ymin": -60,
+                "width": 513,
+                "height": 513
+            }
+        },
+        "face_1": {
+            "bounding_box": {
+                "xmin": 585,
+                "ymin": 145,
+                "width": 217,
+                "height": 217
+            }
+        }
+    },
+    "frame_40": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 499,
+                "ymin": 151,
+                "width": 229,
+                "height": 229
+            }
+        }
+    },
+    "frame_41": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 497,
+                "ymin": 173,
+                "width": 204,
+                "height": 204
+            }
+        }
+    },
+    "frame_42": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 598,
+                "ymin": -149,
+                "width": 592,
+                "height": 592
+            }
+        }
+    },
+    "frame_43": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 390,
+                "ymin": 201,
+                "width": 206,
+                "height": 206
+            }
+        }
+    },
+    "frame_44": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 335,
+                "ymin": 169,
+                "width": 254,
+                "height": 254
+            }
+        }
+    },
+    "frame_45": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 365,
+                "ymin": 180,
+                "width": 223,
+                "height": 223
+            }
+        }
+    },
+    "frame_46": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 376,
+                "ymin": 181,
+                "width": 207,
+                "height": 207
+            }
+        }
+    },
+    "frame_47": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 376,
+                "ymin": 173,
+                "width": 208,
+                "height": 208
+            }
+        }
+    },
+    "frame_48": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 386,
+                "ymin": 177,
+                "width": 213,
+                "height": 213
+            }
+        }
+    },
+    "frame_49": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 415,
+                "ymin": 177,
+                "width": 204,
+                "height": 204
+            }
+        }
+    },
+    "frame_50": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 441,
+                "ymin": 171,
+                "width": 202,
+                "height": 202
+            }
+        }
+    },
+    "frame_51": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 448,
+                "ymin": 192,
+                "width": 203,
+                "height": 203
+            }
+        }
+    },
+    "frame_52": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 492,
+                "ymin": 192,
+                "width": 196,
+                "height": 196
+            }
+        }
+    },
+    "frame_53": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 519,
+                "ymin": 199,
+                "width": 180,
+                "height": 180
+            }
+        }
+    },
+    "frame_54": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 553,
+                "ymin": 194,
+                "width": 184,
+                "height": 184
+            }
+        }
+    },
+    "frame_55": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 554,
+                "ymin": 197,
+                "width": 189,
+                "height": 189
+            }
+        }
+    },
+    "frame_56": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 73,
+                "ymin": 62,
+                "width": 263,
+                "height": 263
+            }
+        }
+    },
+    "frame_57": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 58,
+                "ymin": 50,
+                "width": 278,
+                "height": 278
+            }
+        }
+    },
+    "frame_58": {
+        "face_0": {
+            "bounding_box": {
+                "xmin": 494,
+                "ymin": 157,
+                "width": 171,
+                "height": 171
+            }
+        }
+    }
+}
