@@ -27,6 +27,7 @@ frame_count=0
 #- For webcam input:
 
 cap = cv2.VideoCapture(0)
+# for the facecam
 with mp_face_detection.FaceDetection(
       model_selection=0, min_detection_confidence=0.5) as face_detection:
       while cap.isOpened():
@@ -72,5 +73,5 @@ with mp_face_detection.FaceDetection(
 cap.release()
 
 # creating json file
-with open("coords.json",'w') as f:
+with open("camera.json",'w') as f:
       json.dump(outer_dict,f,indent=4)
